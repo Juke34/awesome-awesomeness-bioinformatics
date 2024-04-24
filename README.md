@@ -13,5 +13,6 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Awesome Genome Annotation](https://juke34.github.io/awesome-genome-annotation/) - A curated list of awesome genome annotation tools.
 * [Awesome Multi-omics](https://github.com/mikelove/awesome-multi-omics) - A community-maintained list of software packages for multi-omics data analysis.
 * [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) - A curated list of awesome pipeline toolkits.
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - This is a list of topic-centric public data sources in high quality
 * [Awesome Single](https://github.com/seandavi/awesome-single-cell) - List of software packages (and the people developing these methods) for single-cell data analysis, including RNA-seq, ATAC-seq, etc.
 * [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin/blob/master/README.md) - A curated list of amazingly awesome open source sysadmin resources. 
