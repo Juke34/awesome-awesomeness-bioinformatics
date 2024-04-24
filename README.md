@@ -12,6 +12,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Awesome Big Data](https://github.com/newTendermint/awesome-bigdata) - A curated list of awesome big data frameworks, resources and other awesomeness.
 * [Awesome Bio Go](https://github.com/dissipative/awesome-bio-go) - List of Bioinformatics Software Written in the Go Language.
 * [Awesome Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) - A curated list of awesome Bioinformatics software, resources, and libraries. Mostly command line based, and free or open-source.
+* [Awesome Bioinformatics Benchmarks](https://github.com/j-andrews7/awesome-bioinformatics-benchmarks) - A curated list of bioinformatics benchmarking papers and resources.
 * [Awesome Bioinformatics Education](https://github.com/lskatz/awesome-bioinformatics-education) - A curated list of resources specific to learning bioinformatics. 
 * [Awesome Bioinformatics Tools](https://github.com/ZhihaoXie/awesome-bioinformatics-tools) - A curated list of awesome Bioinformatics software, tools and resources.
 * [Awesome Cancer Variant Databases](https://github.com/seandavi/awesome-cancer-variant-databases) - A community-maintained repository of cancer clinical knowledge bases and databases focused on cancer and normal variants.
