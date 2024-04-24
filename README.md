@@ -3,7 +3,7 @@
 A curated list of awesome curated lists of awesome softwares and resources in bioinformatics and affiliated areas.
 
 ## Contributing
-Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
+Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add a awesome list of resources.
 
 ## Awesome
 
