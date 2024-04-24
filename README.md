@@ -8,7 +8,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 ## Awesome
 
 * [Awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics: Programming, Computer Science, Big Data, Databases, Learn, Front-End/Back-End Development, etc.
-* (Awesome Awesomeness)[https://github.com/bayandin/awesome-awesomeness] - A curated list of amazingly awesome awesomeness (i.e. similar to this repository but with broader topics with a focus on programming and general ressources).
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of amazingly awesome awesomeness (i.e. similar to this repository but with broader topics with a focus on programming and general ressources).
 * [Awesome Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) - A curated list of awesome Bioinformatics software, resources, and libraries. Mostly command line based, and free or open-source.
 * [Awesome Bioinformatics Tools](https://github.com/ZhihaoXie/awesome-bioinformatics-tools) - A curated list of awesome Bioinformatics software, tools and resources.
 * [Awesome Genome Annotation](https://juke34.github.io/awesome-genome-annotation/) - A curated list of awesome genome annotation tools.
