@@ -37,3 +37,4 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add a awesome list 
 * [Awosome Bioinformatics](https://github.com/openbiox/awosome-bioinformatics) - A curated list of resources for learning bioinformatics. Some of this repo resources were collected by BioInstaller project. 
 * [Bioinformatics notes](https://github.com/mdozmorov/Bioinformatics_notes) - Awesome bioinformatics learning and data analysis tips and tricks.
 * [Glittr](https://glittr.org/?per_page=25&sort_by=stargazers&sort_direction=desc) - a web app that list bioinformatics training materials available on GitHub and GitLab
+* [Genome Assembly Tools](https://github.com/nadegeguiglielmoni/genome_assembly_tools) - Awesome list of genome assembly tools 
