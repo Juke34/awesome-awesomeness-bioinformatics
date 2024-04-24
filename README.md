@@ -12,6 +12,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Awesome Big Data](https://github.com/newTendermint/awesome-bigdata) - A curated list of awesome big data frameworks, resources and other awesomeness.
 * [Awesome Bio Go](https://github.com/dissipative/awesome-bio-go) - List of Bioinformatics Software Written in the Go Language.
 * [Awesome Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) - A curated list of awesome Bioinformatics software, resources, and libraries. Mostly command line based, and free or open-source.
+* [Awesome Bioinformatics Education](https://github.com/lskatz/awesome-bioinformatics-education) - A curated list of resources specific to learning bioinformatics. 
 * [Awesome Bioinformatics Tools](https://github.com/ZhihaoXie/awesome-bioinformatics-tools) - A curated list of awesome Bioinformatics software, tools and resources.
 * [Awesome Data Science](https://github.com/academic/awesome-datascience) - An open-source Data Science repository to learn and apply towards solving real world problems.
 * [Awesome Genome Annotation](https://juke34.github.io/awesome-genome-annotation/) - A curated list of awesome genome annotation tools.
@@ -25,4 +26,6 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Awesome R](https://github.com/qinwf/awesome-R) - A curated list of awesome R packages and tools.
 * [Awesome Single Cell](https://github.com/seandavi/awesome-single-cell) - List of software packages (and the people developing these methods) for single-cell data analysis, including RNA-seq, ATAC-seq, etc.
 * [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin/blob/master/README.md) - A curated list of amazingly awesome open source sysadmin resources. 
+* [Awosome Bioinformatics](https://github.com/openbiox/awosome-bioinformatics) - A curated list of resources for learning bioinformatics. Some of this repo resources were collected by BioInstaller project. 
+* [Bioinformatics notes](https://github.com/mdozmorov/Bioinformatics_notes) - Awesome bioinformatics learning and data analysis tips and tricks.
 * [Glittr](https://glittr.org/?per_page=25&sort_by=stargazers&sort_direction=desc) - a web app that list bioinformatics training materials available on GitHub and GitLab
