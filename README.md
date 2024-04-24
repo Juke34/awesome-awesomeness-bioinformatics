@@ -9,6 +9,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 * [Awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics: Programming, Computer Science, Big Data, Databases, Learn, Front-End/Back-End Development, etc.
 * [Awesome 10x Genomics](https://github.com/johandahlberg/awesome-10x-genomics) - This list attempts to gather tools related to the GEMCode/Chromium platforms from 10x Genomics.
+* [Awesome Alternative Splicing](https://github.com/HussainAther/awesome-alternative-splicing) - This is a resource for software and information about alternative splicing.
 * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of amazingly awesome awesomeness (i.e. similar to this repository but with broader topics with a focus on programming and general ressources).
 * [Awesome Big Data](https://github.com/newTendermint/awesome-bigdata) - A curated list of awesome big data frameworks, resources and other awesomeness.
 * [Awesome Bio Go](https://github.com/dissipative/awesome-bio-go) - List of Bioinformatics Software Written in the Go Language.
