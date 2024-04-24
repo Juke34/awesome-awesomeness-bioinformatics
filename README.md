@@ -38,3 +38,4 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add a awesome list 
 * [Bioinformatics notes](https://github.com/mdozmorov/Bioinformatics_notes) - Awesome bioinformatics learning and data analysis tips and tricks.
 * [Glittr](https://glittr.org/?per_page=25&sort_by=stargazers&sort_direction=desc) - a web app that list bioinformatics training materials available on GitHub and GitLab
 * [Genome Assembly Tools](https://github.com/nadegeguiglielmoni/genome_assembly_tools) - Awesome list of genome assembly tools 
+* [Long Read Tools](https://long-read-tools.org) - A catalogue of available long read sequencing data analysis tools. 
