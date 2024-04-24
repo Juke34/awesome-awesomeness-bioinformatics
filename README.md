@@ -19,3 +19,4 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - This is a list of topic-centric public data sources in high quality
 * [Awesome Single Cell](https://github.com/seandavi/awesome-single-cell) - List of software packages (and the people developing these methods) for single-cell data analysis, including RNA-seq, ATAC-seq, etc.
 * [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin/blob/master/README.md) - A curated list of amazingly awesome open source sysadmin resources. 
+* [Glittr](https://glittr.org/?per_page=25&sort_by=stargazers&sort_direction=desc) - a web app that list bioinformatics training materials available on GitHub and GitLab
