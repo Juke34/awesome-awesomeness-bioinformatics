@@ -25,6 +25,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add a awesome list 
 | [Awesome Genome Annotation](https://juke34.github.io/awesome-genome-annotation/) | A curated list of awesome genome annotation tools.
 | [Awesome Genome Visualization](https://github.com/cmdcolin/awesome-genome-visualization) | A list of interesting genome visualizers, genome browsers, or genome-browser-like implementations.
 | [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) | A curated list of awesome machine learning frameworks, libraries and software (by language).
+| [Awesome Microbes](https://github.com/stevetsa/awesome-microbes) | List of resources, including software packages (and the people developing these methods) for microbiome (16S), metagenomics (WGS, Shot-gun sequencing), and pathogen identification/detection/characterization.
 | [Awesome Multi-omics](https://github.com/mikelove/awesome-multi-omics) | A community-maintained list of software packages for multi-omics data analysis.
 | [Awesome Nextflow](https://github.com/nextflow-io/awesome-nextflow) | A curated list of Nextflow pipelines 
 | [Awesome Package Manager](https://github.com/damon-kwok/awesome-package-manager) | A list of package manager.
@@ -34,10 +35,10 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add a awesome list 
 | [Awesome R](https://github.com/qinwf/awesome-R) | A curated list of awesome R packages and tools.
 | [Awesome Single Cell](https://github.com/seandavi/awesome-single-cell) | List of software packages (and the people developing these methods) for single-cell data analysis, including RNA-seq, ATAC-seq, etc.
 | [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin/blob/master/README.md) | A curated list of amazingly awesome open source sysadmin resources. 
-| [Awesome Microbes](https://github.com/stevetsa/awesome-microbes) | List of resources, including software packages (and the people developing these methods) for microbiome (16S), metagenomics (WGS, Shot-gun sequencing), and pathogen identification/detection/characterization.
 | [Awosome Bioinformatics](https://github.com/openbiox/awosome-bioinformatics) | A curated list of resources for learning bioinformatics. Some of this repo resources were collected by BioInstaller project. 
 | [Bioinformatics notes](https://github.com/mdozmorov/Bioinformatics_notes) | Awesome bioinformatics learning and data analysis tips and tricks.
 | [Glittr](https://glittr.org/?per_page=25&sort_by=stargazers&sort_direction=desc) | a web app that list bioinformatics training materials available on GitHub and GitLab
 | [Genome Assembly Tools](https://github.com/nadegeguiglielmoni/genome_assembly_tools) | Awesome list of genome assembly tools 
 | [Long Read Tools](https://long-read-tools.org) | A catalogue of available long read sequencing data analysis tools. 
+| [RNA-seq Analysis](https://github.com/crazyhottommy/RNA-seq-analysis) | RNAseq analysis notes from Ming Tang
 | [Workflowhub](https://workflowhub.eu) | A registry of scientific computational workflows
