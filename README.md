@@ -40,5 +40,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add a awesome list 
 | [Glittr](https://glittr.org/?per_page=25&sort_by=stargazers&sort_direction=desc) | a web app that list bioinformatics training materials available on GitHub and GitLab
 | [Genome Assembly Tools](https://github.com/nadegeguiglielmoni/genome_assembly_tools) | Awesome list of genome assembly tools 
 | [Long Read Tools](https://long-read-tools.org) | A catalogue of available long read sequencing data analysis tools. 
+| [Python Graph Gallery](https://python-graph-gallery.com) | collection of hundreds of charts made with Python
+| [R Graph Gallery](https://r-graph-gallery.com) | collection of hundreds of charts made with the R programming language
 | [RNA-seq Analysis](https://github.com/crazyhottommy/RNA-seq-analysis) | RNAseq analysis notes from Ming Tang
 | [Workflowhub](https://workflowhub.eu) | A registry of scientific computational workflows
