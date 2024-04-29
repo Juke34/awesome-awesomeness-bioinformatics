@@ -5,8 +5,7 @@ Your contributions are always welcome!
 ## Commits
 
 Search previous suggestions before making a new one, as yours may be a duplicate.  
-Use the following format:  
-| [RESOURCE](LINK) | DESCRIPTION.  
+Use the following format: | [RESOURCE](LINK) | DESCRIPTION.  
 Keep descriptions short (<80 characters is the best).  
 End descriptions with a full stop.  
 Make an individual commit for each ressource.  
