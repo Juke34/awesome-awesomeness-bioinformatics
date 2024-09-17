@@ -25,13 +25,14 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add a awesome list 
 | [Awesome Expression Browser](https://github.com/federicomarini/awesome-expression-browser) | A curated list of software and resources for exploring and visualizing (browsing) expression data, but not only limited to that.
 | [Awesome Genome Annotation](https://juke34.github.io/awesome-genome-annotation/) | A curated list of awesome genome annotation tools.
 | [Awesome Genome Visualization](https://github.com/cmdcolin/awesome-genome-visualization) | A list of interesting genome visualizers, genome browsers, or genome-browser-like implementations.
-| [Awesome ggplot2](https://github.com/erikgahner/awesome-ggplot2?tab=readme-ov-file) | Resources related to ggplot2
-| [Awesome Quarto](https://github.com/mcanouil/awesome-quarto) | The most up to date curated list of Quarto® docs, talks, tools, examples & articles the internet has to offer
+| [Awesome ggplot2](https://github.com/erikgahner/awesome-ggplot2?tab=readme-ov-file) | Resources related to ggplot2.
+| [Awesome Quarto](https://github.com/mcanouil/awesome-quarto) | The most up to date curated list of Quarto® docs, talks, tools, examples & articles the internet has to offer.
 | [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) | A curated list of awesome machine learning frameworks, libraries and software (by language).
 | [Awesome Microbes](https://github.com/stevetsa/awesome-microbes) | List of resources, including software packages (and the people developing these methods) for microbiome (16S), metagenomics (WGS, Shot-gun sequencing), and pathogen identification/detection/characterization.
 | [Awesome Multi-omics](https://github.com/mikelove/awesome-multi-omics) | A community-maintained list of software packages for multi-omics data analysis.
-| [Awesome Nextflow](https://github.com/nextflow-io/awesome-nextflow) | A curated list of Nextflow pipelines 
-| [Awesome Package Manager](https://github.com/damon-kwok/awesome-package-manager) | A list of package manager.
+| [Awesome Nextflow](https://github.com/nextflow-io/awesome-nextflow) | A curated list of Nextflow pipelines.
+| [Awesome Package Manager](https://github.com/damon-kwok/awesome-package-manager) | A list of package managers.
+| [Awesome Pangenomes](https://github.com/colindaven/awesome-pangenomes) | A list of packages, papers and formats for eukaryotic pangenomes.
 | [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) | A curated list of awesome pipeline toolkits.
 | [Awesome Python](https://github.com/vinta/awesome-python) | An opinionated list of awesome Python frameworks, libraries, software and resources.
 | [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) | This is a list of topic-centric public data sources in high quality
@@ -42,7 +43,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add a awesome list 
 | [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin/blob/master/README.md) | A curated list of amazingly awesome open source sysadmin resources. 
 | [Awosome Bioinformatics](https://github.com/openbiox/awosome-bioinformatics) | A curated list of resources for learning bioinformatics. Some of this repo resources were collected by BioInstaller project. 
 | [Bioinformatics notes](https://github.com/mdozmorov/Bioinformatics_notes) | Awesome bioinformatics learning and data analysis tips and tricks.
-| [Glittr](https://glittr.org/?per_page=25&sort_by=stargazers&sort_direction=desc) | a web app that list bioinformatics training materials available on GitHub and GitLab
+| [Glittr](https://glittr.org/?per_page=25&sort_by=stargazers&sort_direction=desc) | A web app that list bioinformatics training materials available on GitHub and GitLab
 | [Genome Assembly Tools](https://github.com/nadegeguiglielmoni/genome_assembly_tools) | Awesome list of genome assembly tools 
 | [Long Read Tools](https://long-read-tools.org) | A catalogue of available long read sequencing data analysis tools. 
 | [Python Graph Gallery](https://python-graph-gallery.com) | collection of hundreds of charts made with Python
