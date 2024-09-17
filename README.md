@@ -18,6 +18,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add a awesome list 
 | [Awesome Bioinformatics Benchmarks](https://github.com/j-andrews7/awesome-bioinformatics-benchmarks) | A curated list of bioinformatics benchmarking papers and resources.
 | [Awesome Bioinformatics Education](https://github.com/lskatz/awesome-bioinformatics-education) | A curated list of resources specific to learning bioinformatics. 
 | [Awesome Bioinformatics Tools](https://github.com/ZhihaoXie/awesome-bioinformatics-tools) | A curated list of awesome Bioinformatics software, tools and resources.
+| [Awesome blog bioinformatics](https://github.com/Juke34/awesome-blog-bioinformatics) | A curated list of awesome blog in bioinformatics and affiliated areas.
 | [Awesome Cancer Variant Databases](https://github.com/seandavi/awesome-cancer-variant-databases) | A community-maintained repository of cancer clinical knowledge bases and databases focused on cancer and normal variants.
 | [Awesome Community Bioinformatics](https://github.com/Juke34/awesome-community-bioinformatics) | A curated list of awesome communities in bioinformatics and related fields.
 | [Awesome CRISPR](https://github.com/davidliwei/awesome-CRISPR) | List of software/websites/databases/papers for genome engineering, including (but not limited to) guide design, genome editing outcome, screening analysis, etc.
