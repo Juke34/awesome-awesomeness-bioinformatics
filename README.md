@@ -16,11 +16,11 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add a awesome list 
 | [Awesome Bio Go](https://github.com/dissipative/awesome-bio-go) | List of Bioinformatics Software Written in the Go Language.
 | [Awesome Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) | A curated list of awesome Bioinformatics software, resources, and libraries. Mostly command line based, and free or open-source.
 | [Awesome Bioinformatics Benchmarks](https://github.com/j-andrews7/awesome-bioinformatics-benchmarks) | A curated list of bioinformatics benchmarking papers and resources.
+| [Awesome Bioinformatics Blog](https://github.com/Juke34/awesome-blog-bioinformatics) | A curated list of awesome blog in bioinformatics and affiliated areas.
+| [Awesome Bioinformatics Community](https://github.com/Juke34/awesome-community-bioinformatics) | A curated list of awesome communities in bioinformatics and related fields.
 | [Awesome Bioinformatics Education](https://github.com/lskatz/awesome-bioinformatics-education) | A curated list of resources specific to learning bioinformatics. 
 | [Awesome Bioinformatics Tools](https://github.com/ZhihaoXie/awesome-bioinformatics-tools) | A curated list of awesome Bioinformatics software, tools and resources.
-| [Awesome blog bioinformatics](https://github.com/Juke34/awesome-blog-bioinformatics) | A curated list of awesome blog in bioinformatics and affiliated areas.
 | [Awesome Cancer Variant Databases](https://github.com/seandavi/awesome-cancer-variant-databases) | A community-maintained repository of cancer clinical knowledge bases and databases focused on cancer and normal variants.
-| [Awesome Community Bioinformatics](https://github.com/Juke34/awesome-community-bioinformatics) | A curated list of awesome communities in bioinformatics and related fields.
 | [Awesome CRISPR](https://github.com/davidliwei/awesome-CRISPR) | List of software/websites/databases/papers for genome engineering, including (but not limited to) guide design, genome editing outcome, screening analysis, etc.
 | [Awesome Data Science](https://github.com/academic/awesome-datascience) | An open-source Data Science repository to learn and apply towards solving real world problems.
 | [Awesome Expression Browser](https://github.com/federicomarini/awesome-expression-browser) | A curated list of software and resources for exploring and visualizing (browsing) expression data, but not only limited to that.
