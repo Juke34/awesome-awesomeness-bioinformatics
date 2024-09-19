@@ -36,18 +36,19 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add a awesome list 
 | [Awesome Pangenomes](https://github.com/colindaven/awesome-pangenomes) | A list of packages, papers and formats for eukaryotic pangenomes.
 | [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) | A curated list of awesome pipeline toolkits.
 | [Awesome Python](https://github.com/vinta/awesome-python) | An opinionated list of awesome Python frameworks, libraries, software and resources.
-| [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) | This is a list of topic-centric public data sources in high quality
+| [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) | This is a list of topic-centric public data sources in high quality.
 | [Awesome R](https://github.com/qinwf/awesome-R) | A curated list of awesome R packages and tools.
-| [Awesome R Learning Resources](https://github.com/iamericfletcher/awesome-r-learning-resources) | A curated list of R Learning Resources
-| [Awesome R Package Development Tools](https://github.com/IndrajeetPatil/awesome-r-pkgtools) | A curated list of R Package Development Tools
+| [Awesome R Learning Resources](https://github.com/iamericfletcher/awesome-r-learning-resources) | A curated list of R Learning Resources.
+| [Awesome R Package Development Tools](https://github.com/IndrajeetPatil/awesome-r-pkgtools) | A curated list of R Package Development Tools.
 | [Awesome Single Cell](https://github.com/seandavi/awesome-single-cell) | List of software packages (and the people developing these methods) for single-cell data analysis, including RNA-seq, ATAC-seq, etc.
 | [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin/blob/master/README.md) | A curated list of amazingly awesome open source sysadmin resources. 
 | [Awosome Bioinformatics](https://github.com/openbiox/awosome-bioinformatics) | A curated list of resources for learning bioinformatics. Some of this repo resources were collected by BioInstaller project. 
 | [Bioinformatics notes](https://github.com/mdozmorov/Bioinformatics_notes) | Awesome bioinformatics learning and data analysis tips and tricks.
-| [Glittr](https://glittr.org/?per_page=25&sort_by=stargazers&sort_direction=desc) | A web app that list bioinformatics training materials available on GitHub and GitLab
-| [Genome Assembly Tools](https://github.com/nadegeguiglielmoni/genome_assembly_tools) | Awesome list of genome assembly tools 
+| [Glittr](https://glittr.org/?per_page=25&sort_by=stargazers&sort_direction=desc) | A web app that list bioinformatics training materials available on GitHub and GitLab.
+| [Genome Assembly Tools](https://github.com/nadegeguiglielmoni/genome_assembly_tools) | Awesome list of genome assembly tools. 
+| [Helpful links](https://github.com/paulstothard/helpful_links) | Awesome links to resources related to bioinformatics and data analysis.
 | [Long Read Tools](https://long-read-tools.org) | A catalogue of available long read sequencing data analysis tools. 
-| [Python Graph Gallery](https://python-graph-gallery.com) | collection of hundreds of charts made with Python
-| [R Graph Gallery](https://r-graph-gallery.com) | collection of hundreds of charts made with the R programming language
-| [RNA-seq Analysis](https://github.com/crazyhottommy/RNA-seq-analysis) | RNAseq analysis notes from Ming Tang
-| [Workflowhub](https://workflowhub.eu) | A registry of scientific computational workflows
+| [Python Graph Gallery](https://python-graph-gallery.com) | collection of hundreds of charts made with Python.
+| [R Graph Gallery](https://r-graph-gallery.com) | collection of hundreds of charts made with the R programming language.
+| [RNA-seq Analysis](https://github.com/crazyhottommy/RNA-seq-analysis) | RNAseq analysis notes from Ming Tang.
+| [Workflowhub](https://workflowhub.eu) | A registry of scientific computational workflows.
