@@ -44,9 +44,10 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add a awesome list 
 | [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin/blob/master/README.md) | A curated list of amazingly awesome open source sysadmin resources. 
 | [Awosome Bioinformatics](https://github.com/openbiox/awosome-bioinformatics) | A curated list of resources for learning bioinformatics. Some of this repo resources were collected by BioInstaller project. 
 | [Bioinformatics notes](https://github.com/mdozmorov/Bioinformatics_notes) | Awesome bioinformatics learning and data analysis tips and tricks.
-| [ERGA Knowledge Hub](https://www.erga-biodiversity.eu/post/the-erga-knowledge-hub) | A portal gathering and sharing educational materials on genomics and related topics |
-| [Glittr](https://glittr.org/?per_page=25&sort_by=stargazers&sort_direction=desc) | A web app that list bioinformatics training materials available on GitHub and GitLab.
+| [ERGA Knowledge Hub](https://www.erga-biodiversity.eu/post/the-erga-knowledge-hub) | A portal gathering and sharing educational materials on genomics and related topics 
+| [Galaxy Training!](https://training.galaxyproject.org) | Collection of tutorials developed and maintained by the worldwide Galaxy community 
 | [Genome Assembly Tools](https://github.com/nadegeguiglielmoni/genome_assembly_tools) | Awesome list of genome assembly tools. 
+| [Glittr](https://glittr.org/?per_page=25&sort_by=stargazers&sort_direction=desc) | A web app that list bioinformatics training materials available on GitHub and GitLab.
 | [Helpful links](https://github.com/paulstothard/helpful_links) | Awesome links to resources related to bioinformatics and data analysis.
 | [Long Read Tools](https://long-read-tools.org) | A catalogue of available long read sequencing data analysis tools. 
 | [Python Graph Gallery](https://python-graph-gallery.com) | collection of hundreds of charts made with Python.
