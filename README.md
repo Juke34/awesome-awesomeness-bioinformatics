@@ -40,6 +40,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add a awesome list 
 | [Awesome R](https://github.com/qinwf/awesome-R) | A curated list of awesome R packages and tools.
 | [Awesome R Learning Resources](https://github.com/iamericfletcher/awesome-r-learning-resources) | A curated list of R Learning Resources.
 | [Awesome R Package Development Tools](https://github.com/IndrajeetPatil/awesome-r-pkgtools) | A curated list of R Package Development Tools.
+| [Awesome Reproducible Research](https://github.com/leipzig/awesome-reproducible-research) | A curated list of reproducible research case studies, projects, tutorials, and media.
 | [Awesome Single Cell](https://github.com/seandavi/awesome-single-cell) | List of software packages (and the people developing these methods) for single-cell data analysis, including RNA-seq, ATAC-seq, etc.
 | [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin/blob/master/README.md) | A curated list of amazingly awesome open source sysadmin resources. 
 | [Awosome Bioinformatics](https://github.com/openbiox/awosome-bioinformatics) | A curated list of resources for learning bioinformatics. Some of this repo resources were collected by BioInstaller project. 
